@@ -10,7 +10,7 @@ from transformers import AutoModelForSequenceClassification, AutoTokenizer
 from http import HTTPStatus
 import dashscope
 
-dashscope.api_key = "706536f8d325979c4d4fd5de104e3864.udrW9pscb7bmddLM"
+dashscope.api_key = "xxxxxxxx"
 
 chromadbPath_bge = "/Users/shaobin/Personal/In Hong Kong/Semester-B/Project/data/Medical_Insurance_Data_Collection/database_bge"
 chromadbPath_stella = "../database_stella"
